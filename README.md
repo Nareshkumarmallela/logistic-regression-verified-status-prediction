@@ -166,6 +166,27 @@ Logistic Regression (Scikit-learn)
 
 ---
 
+### 👤 Author
+
+**Nareshkumar Mallela**
+Data Analyst | Machine Learning Enthusiast
+Open to Data Analyst / Machine Learning opportunities
+
+---
+
+# 🏆 Professional Presentation Tip (Very Important)
+
+In your GitHub repo description section, write:
+
+> Logistic Regression classification model to predict verified status using engagement metrics and textual features. Achieved 67% accuracy with balanced class performance.
+
+Add tags:
+machine-learning
+logistic-regression
+classification
+data-science
+python
+
 ## ▶️ How to Run This Project
 
 ### Clone Repository
