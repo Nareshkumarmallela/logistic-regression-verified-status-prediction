@@ -106,7 +106,7 @@ Logistic Regression (Scikit-learn)
 
 ### 📊 Confusion Matrix Visualization
 
-![Confusion Matrix](confusion_matrix.jpeg)
+![Confusion Matrix](Confusion_matrix.jpeg)
 
 ### Interpretation:
 
