@@ -171,14 +171,3 @@ Logistic Regression (Scikit-learn)
 **Nareshkumar Mallela**
 Data Analyst | Machine Learning Enthusiast
 Open to Data Analyst / Machine Learning opportunities
-
-
-## ▶️ How to Run This Project
-
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/logistic-regression-verified-status-prediction.git
-
-pip install -r requirements.txt
-
-jupyter notebook Logistic_Regression.ipynb
